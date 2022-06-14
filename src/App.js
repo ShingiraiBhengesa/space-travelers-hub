@@ -3,6 +3,7 @@ import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import NotFound from './components/pages/NotFound';
 import NavBar from './components/NavBar/NavBar';
+import MissionsContainer from './components/pages/MissionsContainer';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
       <NavBar />
       <div className="container">
         <Routes>
-          <Route path="/myprofile" element={<Profile />} />
+          <Route path="/missions" element={<MissionsContainer />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </div>
