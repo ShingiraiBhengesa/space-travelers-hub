@@ -11,7 +11,7 @@ function App() {
       <NavBar />
       <div className="container">
         <Routes>
-          <Route path="/myprofile" element={<Profile />} />
+          <Route path="/profile" element={<Profile />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </div>
