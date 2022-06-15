@@ -17,7 +17,7 @@ const Navbar = () => {
     },
     {
       id: 3,
-      path: '/myprofile',
+      path: '/Profile',
       text: 'My Profile',
     },
   ];
