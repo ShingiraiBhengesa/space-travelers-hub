@@ -49,8 +49,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Saifullah**
 
 - GitHub: [@githubhandle](https://github.com/saifullah767)
-- Twitter: [@twitterhandle](https://twitter.com)
-- LinkedIn: [LinkedIn](https://linkedin.com/in)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/saifkj)
 
 
 ## 🤝 Contributing
