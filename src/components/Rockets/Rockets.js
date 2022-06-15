@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Rockets() {
- return <div>Under construction</div>;
+ return <div>To the moon</div>;
   }
 
   export default Rockets;
