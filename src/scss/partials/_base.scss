@@ -1,0 +1,101 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: $gray-light;
+
+  @include font;
+  @include flex-column;
+
+  color: $dark;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  #root {
+    width: 100%;
+    min-height: 100vh;
+    padding: 60px 0 40px;
+    position: relative;
+  }
+
+  h1,
+  h2,
+  h3 {
+    line-height: normal;
+  }
+
+  section {
+    padding: 1.5rem 5%;
+    border-bottom: 1px solid rgba($gray-dark, 0.5);
+
+    &:last-of-type {
+      border-bottom: none;
+    }
+
+    .section__title {
+      margin-bottom: 1.5rem;
+    }
+
+    @include mq($mw:43.75rem) {
+      padding: 1.5rem 10%;
+    }
+  }
+
+  button {
+    width: auto;
+    max-width: 150px;
+    padding: 0.4rem 0.5rem;
+    border-radius: 5px;
+
+    @include font;
+
+    font-weight: 500;
+    font-size: 0.875rem;
+    cursor: pointer;
+    transition: border, background-color ease-in-out 250ms;
+  }
+
+  .btn-booking {
+    background-color: transparent;
+    border: 1.5px solid $accent;
+    color: $accent;
+
+    &:hover {
+      background-color: $accent;
+      color: $white;
+    }
+  }
+
+  .btn-cancelBooking {
+    background-color: transparent;
+    border: 1.5px solid $gray-dark;
+    color: $gray-dark;
+
+    &:hover {
+      background-color: rgba($gray-dark, 0.75);
+      color: $white;
+    }
+  }
+
+  .badge-active,
+  .badge-unactive {
+    padding: 0.15rem 0.25rem;
+    border-radius: 5px;
+    color: $white;
+    text-align: center;
+  }
+
+  .badge-active {
+    background-color: rgba($green-dark, 0.85);
+  }
+
+  .badge-unactive {
+    background-color: $gray-dark;
+  }
+}
