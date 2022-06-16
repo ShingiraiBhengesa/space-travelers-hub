@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Space Travelers Hub
 
-> Description the project.
+> This web application that provides commercial and scientific space travel services using real live data from the SpaceX API. The application  will allow users to book rockets and join selected space missions.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
+- Redux
+- CSS
 
 ## Live Demo (if available)
 
@@ -18,39 +18,39 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Code Editor
+- Git installed
+- Node js installed
+
 ### Setup
 
-### Install
+- To clone the repository run `https://github.com/ShingiraiBhengesa/space-travelers-hub.git` in your terminal
+- Next run `npm install` to install dependances
+- To run the project run `npm start` this will open your web browser on localhost:3000
 
-### Usage
 
 ### Run tests
 
-### Deployment
-
+- Run `npm test` to jest test results
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Shingirai**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ShingiraiBhengesa](https://github.com/ShingiraiBhengesa)
+- Twitter: [@bhengesa](https://twitter.com/twitterhandle)
+- LinkedIn: [Shingirai Bhengesa](https://www.linkedin.com/in/shingirai-bhengesa-612b09206/)
 
-👤 **Author2**
+👤 **Saifullah**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/saifullah767)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/saifkj)
+
 
 ## 🤝 Contributing
 
