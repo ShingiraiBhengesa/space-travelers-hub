@@ -47,6 +47,12 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: [Shingirai Bhengesa](https://www.linkedin.com/in/shingirai-bhengesa-612b09206/)
 
 
+👤 **Saifullah**
+
+- GitHub: [@githubhandle](https://github.com/saifullah767)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/saifkj)
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
