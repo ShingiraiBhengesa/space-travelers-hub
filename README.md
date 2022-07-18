@@ -46,11 +46,6 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@bhengesa](https://twitter.com/twitterhandle)
 - LinkedIn: [Shingirai Bhengesa](https://www.linkedin.com/in/shingirai-bhengesa-612b09206/)
 
-👤 **Saifullah**
-
-- GitHub: [@githubhandle](https://github.com/saifullah767)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/saifkj)
-
 
 ## 🤝 Contributing
 
